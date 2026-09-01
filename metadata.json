@@ -1,0 +1,6 @@
+{
+  "name": "12 Band Equalizer",
+  "description": "Professional 12-band studio equalizer with dynamic frequency curve, bass boost, master gain control, 3D sound virtualizer, and custom presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
